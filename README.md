@@ -6,8 +6,6 @@
 Here are some ideas to get you started:
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=poas753)](https://solved.ac/poas753)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=poas753)](https://solved.ac/poas753)
